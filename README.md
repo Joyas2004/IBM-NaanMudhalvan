@@ -123,7 +123,7 @@ rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=
 - But this reduces the number of association rules which are generated thus one has to keep that in mind for obtaining sufficient and meaningful rules.
 
 - A Line Plot which shows the number of rules generated for a `min_support=0.009` for different `min_threshold` values.
-![Graph](https://github.com/Udiesh/IBM-NaanMudhalvan/blob/main/newplot%20(3).png)
+![Graph](https://github.com/Joyas2004/IBM-NaanMudhalvan/blob/main/newplot%20(3).png)
 
 
 
